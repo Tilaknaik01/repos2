@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="practiceSDET48.TestNG_DataProviderTest2"/>
+      <class name="practiceSDET48.TestNg_dataProvider_Test3"/>
+      <class name="practiceSDET48.TestNG_DataProviderTest"/>
+      <class name="practiceSDET48.TestNG_DataProvider_Test2B"/>
+      <class name="practiceSDET48.TestNG_DataProvider_Test3B"/>
+      <class name="practiceSDET48.TestNG_DataProvider_Test1B"/>
+      <class name="practiceSDET48.Practice_TestNg_Test"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
