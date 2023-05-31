@@ -69,7 +69,7 @@ public class ConfirmBookingAsAdminVerifyAsUserTest extends BaseClass
 
 		wLib.takeScreenShot(driver, "confirm");
 
-		//admin logout
+		//admin logout karna
 		home.logoutCLick();
 
 		//click on back button
