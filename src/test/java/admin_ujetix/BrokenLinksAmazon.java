@@ -23,6 +23,7 @@ public class BrokenLinksAmazon
 		ArrayList<String> broken_links = new ArrayList<String>();
 			for (int i = 0; i < all_links.size(); i++) 
 			{
+				//classes
 				String links = all_links.get(i).getAttribute("href");
 				int statuscode = 0;
 				try 
