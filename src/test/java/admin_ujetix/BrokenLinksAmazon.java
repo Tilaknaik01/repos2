@@ -13,7 +13,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class BrokenLinksAmazon
 {
-	//class
+	//class starts here
 	public static void main(String[] args)
 	{
 		WebDriver driver= new ChromeDriver();
